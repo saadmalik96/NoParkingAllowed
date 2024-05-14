@@ -1,6 +1,8 @@
 # NoParkingAllowed
 
-This repo mainly contains three Jupyter Notebooks
+This repo contains two things
+* Three jupyter notebooks: `model.ipynb`, `model_training.ipynb`, and `OCR.ipynb`
+* Model training results: `final_runs_2`
 
 ### model.ipynb
 
